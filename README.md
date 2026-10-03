@@ -4,7 +4,7 @@
 Which regions, product lines, sales channels, and gender categories generate the most profit, and how reliable is the data behind those answers?
 
 ## Dataset
-- **Source:** [Add your Kaggle link here]
+- **Source:** [https://www.kaggle.com/datasets/nayakganesh007/nike-sales-uncleaned-dataset]
 - **Size:** 2,500 orders, 13 columns
 - **Columns:** Order_ID, Gender_Category, Product_Line, Product_Name, Size, Units_Sold, MRP, Discount_Applied, Revenue, Order_Date, Sales_Channel, Region, Profit
 - **Period:** orders from late 2023 to late 2025
