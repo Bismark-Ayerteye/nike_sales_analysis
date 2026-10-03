@@ -35,7 +35,9 @@ Microsoft Excel: Find & Replace, formulas (IF, COUNTIF, COUNTBLANK), Remove Dupl
 
 ### Profit by Region
 Bangalore earned the most total profit (621,948.74) and Hyderabad the least (525,094.60). The gap is 96,854.14, so Hyderabad is about 15.6% below Bangalore. The remaining regions fall in between: Kolkata, Delhi, Mumbai, then Pune.
-![Total Profit by Region](nikeimages/profit_by_%20region.png)
+
+![Total Profit by Region](nike_sales_analysis/images/profit_by_region.png)
+
 
 
 ### Profit by Product Line
@@ -56,7 +58,7 @@ Retail earned slightly more profit (1,726,844.77) than Online (1,713,187.35). Th
 ### Profit by Product Line and Gender Category
 Women's products earned the most total profit (1,185,968.26), followed by Kids (1,134,925.82) and Men (1,119,138.04). The strongest single combination is Kids in Training (257,637.56), and the weakest is Men in Running (196,994.00). Women lead in Basketball and Running, Men lead in Soccer, and Lifestyle is almost even across all three groups.
 
-![Total Profit by Product Line and Gender Category](images/profit_by_product%20line_and_gender.png)
+![Total Profit by Product Line and Gender Category](nike_sales_analysis/images/profit_by_product_line_and_gender.png)
 
 ## Limitations
 - Revenue could be calculated for only 390 of 2,500 rows, so this analysis is based on Profit.
