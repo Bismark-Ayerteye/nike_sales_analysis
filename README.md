@@ -35,7 +35,7 @@ Microsoft Excel: Find & Replace, formulas (IF, COUNTIF, COUNTBLANK), Remove Dupl
 
 ### Profit by Region
 Bangalore earned the most total profit (621,948.74) and Hyderabad the least (525,094.60). The gap is 96,854.14, so Hyderabad is about 15.6% below Bangalore. The remaining regions fall in between: Kolkata, Delhi, Mumbai, then Pune.
-![Total Profit by Region](images/profit_by_%20region.png)
+![Total Profit by Region](nikeimages/profit_by_%20region.png)
 
 
 ### Profit by Product Line
@@ -44,12 +44,14 @@ Training had the highest total profit (737,669.90) and Running the lowest (658,3
 ### Average Profit per Order by Product Line
 Soccer earns the most per order (1,426.50) despite having the fewest orders (472). Training leads on total profit mainly because it has the most orders (546); its average per order (1,351.04) is the second lowest. Basketball has the lowest average (1,334.59). The overall average is 1,376.01 per order.
 
-![Average Profit per Order by Product Line](images/Average_profit_per_order.png)
+![Average Profit per Order by Product Line](nike_sales_analysis/images/Average_profit_per_order.png)
+
 
 ### Profit by Sales Channel
 Retail earned slightly more profit (1,726,844.77) than Online (1,713,187.35). The difference is 13,657.42, or about 0.8%, so the two channels perform almost equally.
 
-![Total Profit by Sales Channel](images/Profit_by_Sales.png)
+![Total Profit by Sales Channel](nike_sales_analysis/images/Profit_by_Sales.png)
+
 
 ### Profit by Product Line and Gender Category
 Women's products earned the most total profit (1,185,968.26), followed by Kids (1,134,925.82) and Men (1,119,138.04). The strongest single combination is Kids in Training (257,637.56), and the weakest is Men in Running (196,994.00). Women lead in Basketball and Running, Men lead in Soccer, and Lifestyle is almost even across all three groups.
