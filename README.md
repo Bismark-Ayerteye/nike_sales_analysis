@@ -72,4 +72,4 @@ Women's products earned the most total profit (1,185,968.26), followed by Kids (
 - Fix data capture at the source: units, discount, and MRP were missing or invalid in many rows.
 
 ## Contact
- Bismark Amatey Ayerteye | [Add your LinkedIn link]
+ Bismark Amatey Ayerteye | [ayerteyebismarkamatey@gmail.com]
